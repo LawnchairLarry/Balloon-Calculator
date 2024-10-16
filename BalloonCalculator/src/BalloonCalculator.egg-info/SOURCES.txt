@@ -1,9 +1,0 @@
-pyproject.toml
-src/BalloonCalc/AtmosphereData.py
-src/BalloonCalc/BalloonCalc.py
-src/BalloonCalc/__init__.py
-src/BalloonCalculator.egg-info/PKG-INFO
-src/BalloonCalculator.egg-info/SOURCES.txt
-src/BalloonCalculator.egg-info/dependency_links.txt
-src/BalloonCalculator.egg-info/entry_points.txt
-src/BalloonCalculator.egg-info/top_level.txt
